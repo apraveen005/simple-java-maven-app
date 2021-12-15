@@ -14,15 +14,7 @@
       <version>4.13.2</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
-  <distributionManagement>
-	   <snapshotRepository>
-		  <id>nexus-snapshots</id>
-		  <url>http://localhost:8081/repository/maven-snapshots/</url>
-	   </snapshotRepository>
-	</distributionManagement>
-  
-  
+  </dependencies> 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
